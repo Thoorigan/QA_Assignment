@@ -1,0 +1,8 @@
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="AdNabuTestSuite">
+    <test name="AdNabuTest">
+        <classes>
+            <class name="tests.AdNabuTest"/>
+        </classes>
+    </test>
+</suite>
